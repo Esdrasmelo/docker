@@ -1,5 +1,5 @@
-<p>
-    <img src="./assets/docker-express-node.png">
+<p align="center">
+    <img src="./assets/docker-express-node.png" width="200">
 </p>
 
 This repository contains a simple docker "project".
